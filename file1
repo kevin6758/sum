@@ -1,0 +1,5 @@
+function findSum(num1, num2) {
+    return num1 + num2;
+}
+
+console.log(findSum(5, 3)); // will output 8
